@@ -1,0 +1,133 @@
+{
+  "user": [
+    {
+      "id": "d42f",
+      "name": "soham",
+      "phone": "9503613058",
+      "email": "sohamw@gmail.com",
+      "password": "soham"
+    },
+    {
+      "id": "dc11",
+      "name": "prasad",
+      "phone": "12345",
+      "email": "prasad@gmail.com",
+      "password": "prasad"
+    },
+    {
+      "id": "3238",
+      "name": "",
+      "phone": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "69dd",
+      "name": "soham",
+      "phone": "4679461546",
+      "email": "soham@gmail.com",
+      "password": "soham"
+    },
+    {
+      "id": "afdb",
+      "name": "soham",
+      "phone": "4679461546",
+      "email": "soham@gmail.com",
+      "password": "soham"
+    }
+  ],
+  "product": [
+    {
+      "id": "1",
+      "name": "Delicious Pizza",
+      "price": 20,
+      "image": "./images/f1.png",
+      "category": "pizza",
+      "stock": 5,
+      "qty": 1
+    },
+    {
+      "id": "2",
+      "name": "Delicious Burger",
+      "price": 15,
+      "image": "./images/f2.png",
+      "category": "burger",
+      "stock": 8,
+      "qty": 1
+    },
+    {
+      "id": "3",
+      "name": "Delicious Pizza",
+      "price": 17,
+      "image": "./images/f3.png",
+      "category": "pizza",
+      "stock": 10,
+      "qty": 1
+    },
+    {
+      "id": "4",
+      "name": "Delicious Pasta",
+      "price": 20,
+      "image": "./images/f4.png",
+      "category": "pasta",
+      "stock": 11,
+      "qty": 1
+    },
+    {
+      "id": "5",
+      "name": "Delicious Fries",
+      "price": 10,
+      "image": "./images/f5.png",
+      "category": "fries",
+      "stock": 17,
+      "qty": 1
+    },
+    {
+      "id": "6",
+      "name": "Delicious Pizza",
+      "price": 25,
+      "image": "./images/f6.png",
+      "category": "pizza",
+      "stock": 15,
+      "qty": 1
+    },
+    {
+      "id": "7",
+      "name": "Delicious Burger",
+      "price": 10,
+      "image": "./images/f7.png",
+      "category": "burger",
+      "stock": 5,
+      "qty": 1
+    },
+    {
+      "id": "8",
+      "name": "Tasty Burger",
+      "price": 18,
+      "image": "./images/f8.png",
+      "category": "burger",
+      "stock": 25,
+      "qty": 1
+    },
+    {
+      "id": "9",
+      "name": "Delicious Pasta",
+      "price": 20,
+      "image": "./images/f9.png",
+      "category": "pasta",
+      "stock": 18,
+      "qty": 1
+    }
+  ],
+  "cart": [
+    {
+      "id": "1",
+      "name": "Delicious Pizza",
+      "price": 20,
+      "image": "./images/f1.png",
+      "category": "pizza",
+      "stock": 5,
+      "qty": 1
+    }
+  ]
+}

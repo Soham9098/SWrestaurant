@@ -1,0 +1,12 @@
+.bgimage{
+  background-image:url("hero-bg.jpg") ;
+  background-size: cover;
+  background-position: center;
+  height:90vh;
+}
+.image1:hover{
+  transform: scale(1.1,1.1);
+  overflow: hidden;
+  transition: 2s;
+
+}
